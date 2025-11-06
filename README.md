@@ -96,7 +96,7 @@ Suggestions for improvements, translations, or additions are welcome!
 
 **Dave Malone**
 - Website: [davemalone.net](https://davemalone.net)
-- Email: [davemaloneauthor@gmail.com]
+- Email: davemaloneauthor@gmail.com
 - GitHub: [@dzmalone](https://github.com/dzmalone)
 
 ---
