@@ -1,3 +1,6 @@
+markdown
+![AACC Framework] (https://github.com/dzmalone/aacc/blob/main/AACC%201.0.png)
+
 # AACC: Attribution for AI-Enhanced Creative Content
 
 **A transparency framework for creators across all disciplines.**
