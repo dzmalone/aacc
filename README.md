@@ -48,7 +48,7 @@ AACC provides a simple, three-tier system for attributing AI use in creative wor
 1. Review the three tiers
 2. Choose the tier that matches your AI involvement
 3. Use the attribution format for your tier
-4. See [detailed examples](https://davemalone.net/aacc/examples) for your discipline
+4. See [detailed examples](https://davemalone.net/aacc) for your discipline
 
 ---
 
