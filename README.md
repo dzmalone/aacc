@@ -4,7 +4,7 @@
 
 ![AACC Framework](https://github.com/dzmalone/aacc/blob/main/AACC%201.0.png)
 
-**[View Full Framework on Website](https://davemalone.net/aacc)** | **[Download PDF](https://github.com/dzmalone/aacc/blob/main/aacc-framework-v1-0.pdf)**
+**[View Full Framework on Website](https://davemalone.net/aacc)** | **[Download PDF](https://github.com/dzmalone/aacc/blob/main/AACC_1.0.pdf)**
 
 ---
 
