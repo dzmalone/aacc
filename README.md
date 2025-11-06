@@ -2,7 +2,7 @@
 
 **A transparency framework for creators across all disciplines.**
 
-![AACC Framework](https://github.com/dzmalone/aacc/blob/main/AACC%201.0.png)
+![AACC Framework](https://github.com/dzmalone/aacc/blob/main/AACC_1.0.png)
 
 **[View Full Framework on Website](https://davemalone.net/aacc)** | **[Download PDF](https://github.com/dzmalone/aacc/blob/main/AACC_1.0.pdf)**
 
