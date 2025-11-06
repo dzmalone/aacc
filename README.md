@@ -63,7 +63,7 @@ AACC provides a simple, three-tier system for attributing AI use in creative wor
 
 ## Version History
 
-- **v1.0** (November 2024) - Initial release
+- **v1.0** (November 2025) - Initial release
 
 ---
 
