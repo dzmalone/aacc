@@ -75,7 +75,7 @@ AACC provides a simple, three-tier system for attributing AI use in creative wor
 
 ## Version History
 
-- **v1.0** (November 6, 2024) - Initial release
+- **v1.0** (November 6, 2025) - Initial release
 
 ---
 
@@ -94,7 +94,7 @@ You are free to use, share, and adapt this framework. Attribution required.
 
 If you reference AACC in academic or professional work:
 
-> Malone, D. S. (2024). *AACC: Attribution for AI-Enhanced Creative Content* (Version 1.0). https://github.com/dzmalone/aacc
+> Malone, Dave (2025). *AACC: Attribution for AI-Enhanced Creative Content* (Version 1.0). https://github.com/dzmalone/aacc
 
 ---
 
@@ -125,8 +125,8 @@ Suggestions for improvements, translations, or additions are welcome!
 
 ## Note
 
-*This framework is for educational and discussion purposes, not legal purposes. In the US, AI-generated content cannot be copyrighted.*
+*This framework is for educational and discussion purposes, not legal purposes. Note: In the US, AI-generated content cannot be copyrighted.*
 
 ---
 
-*AACC was created to fill the gap between legal mandates and practical attribution guidance for creators working with AI tools.*
+*AACC was created to fulfill the need for practical attribution guidance for creators working with AI tools.*
