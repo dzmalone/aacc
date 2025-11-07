@@ -41,7 +41,7 @@ AACC provides a simple, two-tier system for attributing AI use in creative work 
 
 - **Simple:** Two clear tiers, easy to understand and apply
 - **Universal:** Works across all creative disciplines
-- **Practical:** Designed for real-world attribution (gallery walls, book covers, credits)
+- **Practical:** Designed for real-world attribution (publications, film descriptions, song credits, artist statements)
 - **Flexible:** Optional detail allows creators to specify exactly how AI was used
 - **Open:** Free to use and adapt under [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -54,8 +54,7 @@ AACC provides a simple, two-tier system for attributing AI use in creative work 
    - If you created first and AI helped → **AI-Assisted**
    - If AI created first from your direction → **AI-Generated**
 3. Use the attribution format for your tier
-4. Optionally add details in parentheses about what the AI did
-5. See [detailed examples](https://davemalone.net/aacc/examples) for your discipline
+4. Optionally add details in parentheses about what the AI did per your discipline
 
 ---
 
@@ -75,7 +74,7 @@ AACC provides a simple, two-tier system for attributing AI use in creative work 
 - AI generates video from scene descriptions
 - AI writes story from plot outline
 
-[More detailed examples →](https://davemalone.net/aacc/examples)
+[More examples →](https://davemalone.net/aacc)
 
 ---
 
