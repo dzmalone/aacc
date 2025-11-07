@@ -23,7 +23,7 @@ AACC provides a simple, two-tier system for attributing AI use in creative work 
   - **Writing:** "Mercury." By Sarah Chen, AI-assisted by Apertus (word choice and line break suggestions)
   - **Film:** *Venus.* Dir. by Chris Taylor, AI-assisted by Runway ML (visual effects and scene generation)
   - **Music:** "Mars." By Luna Rivers, AI-assisted by Wondera (harmonic progressions and arrangement)
-  - **Visual Art:** *Jupiter.* By Min-Jun Park, AI-assisted by Midjourney (background textures and composition elements)
+  - **Visual Art:** *Jupiter.* By Jamila Banks, AI-assisted by Midjourney (background textures and composition elements)
 
 **2. AI-GENERATED**
 - AI creates the primary content from the creator's prompts and direction
