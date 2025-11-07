@@ -81,11 +81,11 @@ AACC provides a simple, two-tier system for attributing AI use in creative work 
 
 ## Adding Optional Detail
 
-You can add specificity about AI's role in parentheses:
+As in the examples above, you can add specificity about AI's role in parentheses:
 
-**Basic:** `By Sarah Chen, AI-assisted by Apertus`
+**Basic:** `By Jordan Lee, AI-assisted by Claude`
 
-**Detailed:** `By Sarah Chen, AI-assisted by Apertus (word choice and line break suggestions)`
+**Detailed:** `By Jordan Lee, AI-assisted by Claude (drafted initial chapters from outline; author substantially revised for voice and character development)`
 
 This helps audiences understand exactly how AI contributed while keeping the base attribution simple.
 
