@@ -1,4 +1,4 @@
-# AACC: Attribution for AI-Enhanced Creative Content
+# AACC: AI Attribution and Creative Content
 
 **A transparency framework for creators across all disciplines.**
 
