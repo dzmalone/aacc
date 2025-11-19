@@ -4,13 +4,13 @@
 
 ![AACC Framework](https://github.com/dzmalone/aacc/blob/main/AACC_1.1_PNG.png)
 
-**[View More Examples and Discussion at Website](https://davemalone.net/aacc)** | **[Download PDF](https://github.com/dzmalone/aacc/blob/main/AACC_1.0.pdf)**
+**[View More Examples and Discussion at Website](https://davemalone.net/aacc)** | **[Download PDF](https://github.com/dzmalone/aacc/blob/main/AACC_1.1.pdf)**
 
 ---
 
-## What is AACC?
+## What is the AACC?
 
-AACC provides a simple, two-tier system for attributing AI use in creative work across writing, visual art, music, film, and more.
+The AACC provides a simple, two-tier system for attributing AI use in creative work across writing, visual art, music, film, and more.
 
 ### The Two Tiers:
 
@@ -37,7 +37,7 @@ AACC provides a simple, two-tier system for attributing AI use in creative work 
 
 ---
 
-## Why AACC?
+## Why the AACC?
 
 - **Simple:** Two clear tiers, easy to understand and apply
 - **Universal:** Works across all creative disciplines
@@ -111,7 +111,7 @@ You are free to use, share, and adapt this framework. Attribution required.
 
 If you reference AACC in academic or professional work:
 
-> Malone, Dave (2025). *AACC: Attribution for AI-Enhanced Creative Content* (Version 1.0). https://github.com/dzmalone/aacc
+> Malone, Dave (2025). *AACC: Attribution for AI-Enhanced Creative Content* (Version 1.1). https://github.com/dzmalone/aacc
 
 ---
 
@@ -146,4 +146,4 @@ Suggestions for improvements, translations, or additions are welcome!
 
 ---
 
-*AACC was created to fulfill the need for practical attribution guidance for creators working with AI tools.*
+*The AACC was created to fulfill the need for practical attribution guidance for creators working with AI tools.*
