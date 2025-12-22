@@ -10,9 +10,9 @@
 
 ## What is the AACC?
 
-The AACC provides a simple, two-tier system for attributing AI use in creative work across writing, visual art, music, film, and more.
+The AACC provides a simple, two-category system for attributing AI use in creative work across writing, visual art, music, film, and more.
 
-### The Two Tiers:
+### The Two Categories:
 
 **1. AI-ASSISTED**
 - The creator originates and drives the work
@@ -39,7 +39,7 @@ The AACC provides a simple, two-tier system for attributing AI use in creative w
 
 ## Why the AACC?
 
-- **Simple:** Two clear tiers, easy to understand and apply
+- **Simple:** Two clear categories, easy to understand and apply
 - **Universal:** Works across all creative disciplines
 - **Practical:** Designed for real-world attribution (publications, film descriptions, song credits, artist statements)
 - **Flexible:** Optional detail allows creators to specify exactly how AI was used
@@ -49,18 +49,18 @@ The AACC provides a simple, two-tier system for attributing AI use in creative w
 
 ## How to Use
 
-1. Review the two tiers
+1. Review the two categories
 2. Ask yourself: **Did I originate this work, or did AI?**
    - If you created first and AI helped → **AI-Assisted**
    - If AI created first from your direction → **AI-Generated**
-3. Use the attribution format for your tier
+3. Use the attribution format for your category
 4. Optionally add details in parentheses about what the AI did per your discipline
 
 ---
 
-## Use Examples by Tier
+## Use Examples by Category
 
-**Tier 1 (AI-Assisted):**
+**Category 1 (AI-Assisted):**
 - Writer edits with AI tools
 - Filmmaker grades color with AI
 - Musician masters audio with AI
@@ -68,7 +68,7 @@ The AACC provides a simple, two-tier system for attributing AI use in creative w
 - Writer substantially revises AI-drafted passages
 - Photographer composites AI-generated elements
 
-**Tier 2 (AI-Generated):**
+**Category 2 (AI-Generated):**
 - AI creates full image from text prompt
 - AI composes song from style parameters
 - AI generates video from scene descriptions
@@ -92,7 +92,7 @@ This helps audiences understand exactly how AI contributed while keeping the bas
 
 ## Version History
 
-- **v1.0** (November 7, 2025) - Initial two-tier release
+- **v1.0** (November 7, 2025) - Initial two-category release
 
 ---
 
