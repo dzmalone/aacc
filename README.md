@@ -110,8 +110,9 @@ This helps audiences understand exactly how AI contributed while keeping the bas
 ---
 
 ## Version History
-
 - **v1.0** (November 7, 2025) - Initial two-category release
+- **v1.1** (November 19, 2025) - Title renamed to AI Attribution and Creative Content (AACC)
+- **v1.2** (March 2026) - Added Human Authored category; refined AI-Assisted definition
 
 ---
 
