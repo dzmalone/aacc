@@ -72,6 +72,10 @@ The AACC provides a simple, three-category system for attributing AI use in crea
 
 ---
 
+
+
+---
+
 ## Use Examples by Category
 **Category 1 (Human Authored):**
 - Writer drafts and revises without AI tools
