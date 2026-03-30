@@ -72,7 +72,22 @@ The AACC provides a simple, three-category system for attributing AI use in crea
 
 ---
 
+## The AACC Badges
 
+Once you've identified your category, you can use the corresponding AACC badge to signal your attribution clearly and visually. Badges are available in black and white versions to suit light or dark backgrounds.
+
+| | Black | White |
+|---|---|---|
+| **Human Authored** | ![HA Black](AACC_badge_HA-black.png) | ![HA White](AACC_badge_HA-white.png) |
+| **AI-Assisted** | ![AIA Black](AACC_badge_AIA-black.png) | ![AIA White](AACC_badge_AIA-white.png) |
+| **AI-Generated** | ![AIG Black](AACC_badge_AIG-black.png) | ![AIG White](AACC_badge_AIG-white.png) |
+
+Badges can be used on:
+- Artist websites and portfolio pages
+- Book covers, liner notes, and publication credits
+- Social media posts and profile bios
+- Film credits and press materials
+- Blog posts, articles, and newsletters
 
 ---
 
