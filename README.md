@@ -131,7 +131,7 @@ You are free to use, share, and adapt this framework. Attribution required.
 
 If you reference AACC in academic or professional work:
 
-> Malone, Dave (2025). *AACC: Attribution for AI-Enhanced Creative Content* (Version 1.1). https://github.com/dzmalone/aacc
+> Malone, Dave (2026). *AACC: Attribution for AI-Enhanced Creative Content* (Version 1.2). https://github.com/dzmalone/aacc
 
 ---
 
