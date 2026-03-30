@@ -101,9 +101,9 @@ The AACC provides a simple, three-category system for attributing AI use in crea
 
 As in the examples above, you can add specificity about AI's role in parentheses:
 
-**Basic:** `By Jordan Lee, AI-assisted by Claude`
+**Basic:** `By Jordan Lee, AI-Assisted by Claude`
 
-**Detailed:** `By Jordan Lee, AI-assisted by Claude (drafted initial chapters from outline; author substantially revised for voice and character development)`
+**Detailed:** `By Jordan Lee, AI-Assisted by Claude (line-level editing and restructuring of third act)`
 
 This helps audiences understand exactly how AI contributed while keeping the base attribution simple.
 
