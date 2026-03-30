@@ -53,7 +53,7 @@ The AACC provides a simple, three-category system for attributing AI use in crea
 
 ## Why the AACC?
 
-- **Simple:** Two clear categories, easy to understand and apply
+- **Simple:** Three clear categories, easy to understand and apply
 - **Universal:** Works across all creative disciplines
 - **Practical:** Designed for real-world attribution (publications, film descriptions, song credits, artist statements)
 - **Flexible:** Optional detail allows creators to specify exactly how AI was used
@@ -62,33 +62,38 @@ The AACC provides a simple, three-category system for attributing AI use in crea
 ---
 
 ## How to Use
-
-1. Review the two categories
-2. Ask yourself: **Did I originate this work, or did AI?**
-   - If you created first and AI helped → **AI-Assisted**
-   - If AI created first from your direction → **AI-Generated**
+1. Review the three categories
+2. Ask yourself: **What role did AI play in this work?**
+   - If AI played no creative role → **Human Authored**
+   - If you created and drove the work and AI helped refine or enhance it → **AI-Assisted**
+   - If AI generated the primary content from your direction → **AI-Generated**
 3. Use the attribution format for your category
 4. Optionally add details in parentheses about what the AI did per your discipline
 
 ---
 
 ## Use Examples by Category
+**Category 1 (Human Authored):**
+- Writer drafts and revises without AI tools
+- Filmmaker shoots and edits without AI tools
+- Musician composes and records without AI assistance
+- Visual artist conceives and executes work without AI tools
+- Photographer shoots, selects, and edits without AI assistance
 
-**Category 1 (AI-Assisted):**
-- Writer edits with AI tools
-- Filmmaker grades color with AI
-- Musician masters audio with AI
-- Visual artist paints over AI-generated backgrounds
-- Writer substantially revises AI-drafted passages
-- Photographer composites AI-generated elements
+**Category 2 (AI-Assisted):**
+- Writer uses AI for line-level editing and word choice
+- Filmmaker uses AI for color grading and visual effects enhancement
+- Musician uses AI for harmonic progressions and arrangement refinement
+- Visual artist uses AI to enhance texture and composition
+- Photographer uses AI to enhance lighting
 
-**Category 2 (AI-Generated):**
+**Category 3 (AI-Generated):**
 - AI creates full image from text prompt
 - AI composes song from style parameters
 - AI generates video from scene descriptions
 - AI writes story from plot outline
 
-[More examples →](https://davemalone.net/aacc)
+[Also see →](https://davemalone.net/aacc)
 
 ---
 
