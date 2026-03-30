@@ -78,9 +78,9 @@ Once you've identified your category, you can use the corresponding AACC badge t
 
 | | Black | White |
 |---|---|---|
-| **Human Authored** | ![HA Black](AACC_badge_HA-black.png) | ![HA White](AACC_badge_HA-white.png) |
-| **AI-Assisted** | ![AIA Black](AACC_badge_AIA-black.png) | ![AIA White](AACC_badge_AIA-white.png) |
-| **AI-Generated** | ![AIG Black](AACC_badge_AIG-black.png) | ![AIG White](AACC_badge_AIG-white.png) |
+| **Human Authored** | ![HA Black](https://raw.githubusercontent.com/dzmalone/aacc/main/AACC_badge_HA-black.png) | ![HA White](https://raw.githubusercontent.com/dzmalone/aacc/main/AACC_badge_HA-white.png) |
+| **AI-Assisted** | ![AIA Black](https://raw.githubusercontent.com/dzmalone/aacc/main/AACC_badge_AIA-black.png) | ![AIA White](https://raw.githubusercontent.com/dzmalone/aacc/main/AACC_badge_AIA-white.png) |
+| **AI-Generated** | ![AIG Black](https://raw.githubusercontent.com/dzmalone/aacc/main/AACC_badge_AIG-black.png) | ![AIG White](https://raw.githubusercontent.com/dzmalone/aacc/main/AACC_badge_AIG-white.png) |
 
 Badges can be used on:
 - Artist websites and portfolio pages
