@@ -78,9 +78,9 @@ Once you've identified your category, you can use the corresponding AACC badge t
 
 | | Badge |
 |---|---|
-| **Human Authored** | ![HA](https://raw.githubusercontent.com/dzmalone/aacc/main/AACC_badge_HA_black.png) |
-| **AI-Assisted** | ![AIA](https://raw.githubusercontent.com/dzmalone/aacc/main/AACC_badge_AIA_black.png) |
-| **AI-Generated** | ![AIG](https://raw.githubusercontent.com/dzmalone/aacc/main/AACC_badge_AIG_black.png) |
+| **Human Authored** | <img src="https://raw.githubusercontent.com/dzmalone/aacc/main/AACC_badge_HA_black.png" width="130"> |
+| **AI-Assisted** | <img src="https://raw.githubusercontent.com/dzmalone/aacc/main/AACC_badge_AIA_black.png" width="130"> |
+| **AI-Generated** | <img src="https://raw.githubusercontent.com/dzmalone/aacc/main/AACC_badge_AIG_black.png" width="130"> |
 
 *White versions for dark backgrounds also available — see files above.*
 
