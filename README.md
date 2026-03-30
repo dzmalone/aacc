@@ -10,9 +10,9 @@
 
 ## What is the AACC?
 
-The AACC provides a simple, two-category system for attributing AI use in creative work across writing, visual art, music, film, and more.
+The AACC provides a simple, three-category system for attributing AI use in creative work across writing, visual art, music, film, and more.
 
-### The Two Categories:
+### The Three Categories:
 
 **1. AI-ASSISTED**
 - The creator originates and drives the work
