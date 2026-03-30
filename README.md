@@ -76,11 +76,13 @@ The AACC provides a simple, three-category system for attributing AI use in crea
 
 Once you've identified your category, you can use the corresponding AACC badge to signal your attribution clearly and visually. Badges are available in black and white versions to suit light or dark backgrounds.
 
-| | Black | White |
-|---|---|---|
-| **Human Authored** | ![HA Black](https://raw.githubusercontent.com/dzmalone/aacc/main/AACC_badge_HA-black.png) | ![HA White](https://raw.githubusercontent.com/dzmalone/aacc/main/AACC_badge_HA-white.png) |
-| **AI-Assisted** | ![AIA Black](https://raw.githubusercontent.com/dzmalone/aacc/main/AACC_badge_AIA-black.png) | ![AIA White](https://raw.githubusercontent.com/dzmalone/aacc/main/AACC_badge_AIA-white.png) |
-| **AI-Generated** | ![AIG Black](https://raw.githubusercontent.com/dzmalone/aacc/main/AACC_badge_AIG-black.png) | ![AIG White](https://raw.githubusercontent.com/dzmalone/aacc/main/AACC_badge_AIG-white.png) |
+| | Badge |
+|---|---|
+| **Human Authored** | ![HA](https://raw.githubusercontent.com/dzmalone/aacc/main/AACC_badge_HA_black.png) |
+| **AI-Assisted** | ![AIA](https://raw.githubusercontent.com/dzmalone/aacc/main/AACC_badge_AIA_black.png) |
+| **AI-Generated** | ![AIG](https://raw.githubusercontent.com/dzmalone/aacc/main/AACC_badge_AIG_black.png) |
+
+*White versions for dark backgrounds also available — see files above.*
 
 Badges can be used on:
 - Artist websites and portfolio pages
@@ -88,7 +90,7 @@ Badges can be used on:
 - Social media posts and profile bios
 - Film credits and press materials
 - Blog posts, articles, and newsletters
-
+  
 ---
 
 ## Use Examples by Category
